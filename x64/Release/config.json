@@ -1,0 +1,42 @@
+{
+  "espEnableDRAW": false,
+  "espBox": true,
+  "espWeapon": true,
+  "espArmor": true,
+  "espHealth": true,
+  "espDefuse": true,
+  "espThickness": 3,
+  "espHealthSide": 2,
+  "espArmorSide": 2,
+  
+  "espBoxColor": "#ff0000",
+  "espWeaponColor": "#ff0000",
+  "espArmorColor": "#0000ff",
+  "espHealthColor": "#00ff00",
+  "espDefuseColor": "#ff0000",
+  
+  "bhopEnable": true,
+  "bhopMode": false,
+  
+  "antiFlash": false,
+  
+  "TriggerBotEnabled": false,
+  "TriggerBotMode": false,
+  "TriggerLatency": 0,
+  "TriggerButton": 6,
+  
+  "RCSEnabled": false,
+  "RCSMode": false,
+  "RCSDelay": 0,
+  
+  "specListEnable": false,
+  "specListX": 1560,
+  "specListY": 60,
+  "specListColor": "#ff0000",
+  "specListFrameColor": "#0000ff",
+  
+  "width": 1920,
+  "height": 1080,
+  "winsens": 1,
+  "gamesens": 4.8
+}
